@@ -1,0 +1,3 @@
+# StaffHub
+
+Event staffing platform
